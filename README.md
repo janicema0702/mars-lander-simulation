@@ -1,1 +1,1 @@
-
+This project incorporates control theory by simulating the dynamics of a space probe as it orbits and then attempts to land on Mars. Euler and Verlet numerical integration fo dynamical equations are implemented with Python and C++. 
